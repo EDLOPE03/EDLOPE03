@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Emmanuel Lopez college student at uofl 
-- 👀 I’m interested in video game development,ai, and cybersercurity
-- 🌱 I’m currently learning C and C++, I do know python 
+- 👋 Hi, I’m Emmanuel Lopez a college student at the University of Louisville 
+- 👀 I’m interested in video game development, AI, front end web development, and Cybersecurity
+- 🌱 I’m currently learning JavaScript, I do know Python, C and C++,
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
